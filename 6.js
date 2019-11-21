@@ -11,3 +11,6 @@ let data1 = [
 
 let a = data.sort();
 let b = data1.sort();
+
+console.log(a);
+console.log(b);
